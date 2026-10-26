@@ -12,7 +12,7 @@ The Application uses TelemetryDeck (provider: TelemetryDeck GmbH, Von-der-Tann-S
 - game usage events, for example the app was launched, a run or level was started or finished, how far you got, an upgrade was bought, a character, location or achievement was unlocked, or a screen was opened;
 - device model, operating system version, app version and language.
 
-The data is not used for advertising, is not sold and is not combined with data from other apps or websites. If the device is offline, no data is sent. For more information about TelemetryDeck, visit [https://telemetrydeck.com/privacy/](https://telemetrydeck.com/privacy/).
+The data is not used for advertising, is not sold and is not combined with data from other apps or websites. Events recorded while the device is offline are kept on the device and sent when a connection is available. For more information about TelemetryDeck, visit [https://telemetrydeck.com/privacy/](https://telemetrydeck.com/privacy/).
 
 **Game progress and settings**
 
@@ -20,7 +20,11 @@ Your game progress and settings are stored on your device. If an Application off
 
 **In-app purchases**
 
-If an Application offers in-app purchases, payments are processed entirely by Apple. The Service Provider never receives your payment details, name or Apple Account. The Application only sends an anonymous analytics event with the outcome of a purchase or restore (for example completed, cancelled or failed).
+If an Application offers in-app purchases, payments are processed entirely by Apple. The Service Provider never receives your payment details, name or Apple Account. The Application only sends anonymous analytics events with the outcome of a purchase or restore (for example completed, cancelled or failed) and, for a completed purchase, the product, the App Store country, the currency and an approximate price. The Application also records when a purchase offer is shown.
+
+**Notifications**
+
+If an Application offers notifications, they are local notifications scheduled on your device; no notification server is used. The anonymous analytics may record whether notifications were allowed and whether the game was opened from a notification.
 
 **Does the Application collect precise real time location information of the device?**
 

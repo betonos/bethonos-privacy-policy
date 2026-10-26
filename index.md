@@ -1,20 +1,34 @@
 **Privacy Policy**
 
-This privacy policy applies to the Dig Too Deep app (hereby referred to as "Application") for mobile devices that was created by BETHONOS Wojciech Borczyk (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
+This privacy policy applies to all apps and games for mobile devices published by BETHONOS Wojciech Borczyk (hereby referred to as "Service Provider") on the App Store, including Pixel Miner: Idle Dig Clicker (formerly Dig Too Deep) and Horde Survivors: Bullet Hell (each hereby referred to as "Application"). The Applications are provided as a Free service and are intended for use "AS IS".
 
 **What information does the Application obtain and how is it used?**
 
-The Application does not collect directly identifying personal information such as name, email address, phone number, or precise location. Registration is not required to use the Application.
+The Application does not collect directly identifying personal information such as name, email address, phone number, contacts, advertising identifier or precise location. Registration is not required to use the Application. The Application contains no advertising and does not track you across other companies' apps or websites.
 
-The Application uses TelemetryDeck (provider: TelemetryDeck GmbH, Von-der-Tann-Str. 54, 86159 Augsburg, Germany), a privacy-friendly analytics service, to collect anonymized usage data. This data cannot be used to identify you personally. The following data is collected: an anonymized installation ID, app usage events (e.g. "app launched"), device type, system version, and app version. According to TelemetryDeck's documentation, this data is anonymized and not designed to identify individual users. For more information, visit [https://telemetrydeck.com/privacy/](https://telemetrydeck.com/privacy/).
+The Application uses TelemetryDeck (provider: TelemetryDeck GmbH, Von-der-Tann-Str. 54, 86159 Augsburg, Germany), a privacy-friendly analytics service, to collect anonymized usage data. The Service Provider uses it only to understand how the game is played and to improve it. The following data is collected:
+
+- an anonymized installation ID: a random identifier created by the Application, hashed before it is sent, so it cannot be linked to you, your device or your Apple Account;
+- game usage events, for example the app was launched, a run or level was started or finished, how far you got, an upgrade was bought, a character, location or achievement was unlocked, or a screen was opened;
+- device model, operating system version, app version and language.
+
+The data is not used for advertising, is not sold and is not combined with data from other apps or websites. If the device is offline, no data is sent. For more information about TelemetryDeck, visit [https://telemetrydeck.com/privacy/](https://telemetrydeck.com/privacy/).
+
+**Game progress and settings**
+
+Your game progress and settings are stored on your device. If an Application offers iCloud sync, your progress is also stored in your own iCloud account through Apple's iCloud service, so it can be restored on your other devices. The Service Provider has no access to this data. Deleting the Application deletes the progress stored on the device.
+
+**In-app purchases**
+
+If an Application offers in-app purchases, payments are processed entirely by Apple. The Service Provider never receives your payment details, name or Apple Account. The Application only sends an anonymous analytics event with the outcome of a purchase or restore (for example completed, cancelled or failed).
 
 **Does the Application collect precise real time location information of the device?**
 
-This Application does not collect precise information about the location of your mobile device.
+No. The Application does not collect information about the location of your mobile device.
 
 **Do third parties see and/or have access to information obtained by the Application?**
 
-Anonymized usage data is processed by TelemetryDeck GmbH, based in Germany, on servers located in the European Union. According to TelemetryDeck's documentation, this data is anonymized and cannot be traced back to individual users. No personally identifying data is shared with any third party.
+Anonymized usage data is processed by TelemetryDeck GmbH, based in Germany, on servers located in the European Union, on behalf of the Service Provider. According to TelemetryDeck's documentation, this data is anonymized and cannot be traced back to individual users. No personally identifying data is shared with any third party.
 
 **What are my opt-out rights?**
 
@@ -30,9 +44,9 @@ The Service Provider is concerned about safeguarding the confidentiality of your
 
 **Changes**
 
-This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to their Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+This Privacy Policy may be updated from time to time, for example when a new Application is released or an Application adds features that handle data differently. The Service Provider will publish any changes on this page before such a version is released. You are advised to consult this Privacy Policy regularly for any changes.
 
-This privacy policy is effective as of 2026-03-25
+This privacy policy is effective as of 2026-10-26.
 
 **Your Consent**
 
@@ -42,3 +56,6 @@ By using the Application, you acknowledge the privacy practices described in thi
 
 If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at bethonos.games@gmail.com.
 
+**Support**
+
+Found a bug or need help with one of the games? Write to bethonos.games@gmail.com and include the name of the game, your device model and iOS version.
